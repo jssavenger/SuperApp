@@ -4,6 +4,8 @@
 
 We download apps for our needs but why we download different app for different needs. I decided fix this problem.
 
+![Project Structure Image](./App/assets/super_structure.png)
+
 ## Project Structure
 
 ```text
