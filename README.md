@@ -2,6 +2,19 @@
 What is the our problem?
 We download apps for our needs but why we download different app for different needs. I decided fix this problem.
 
+## Project Structure
+```text
+SUPERAPP
+|-- App
+|   |-- deploy
+|       |-- docker-compose.yml
+|       |-- Dockerfile
+|   |-- main.py
+|-- .env
+|-- .gitignore
+|-- README.md
+```
+
 ### Deployment
 ```bash
 git clone <repo>
