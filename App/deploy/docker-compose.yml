@@ -1,0 +1,10 @@
+services:
+  super_app:
+    container_name: super_app_container
+    build:
+      context: ../..
+      dockerfile: app/deploy/Dockerfile
+    ports:
+      - "5544:8000"
+    volumes:
+      - ../..:/app
