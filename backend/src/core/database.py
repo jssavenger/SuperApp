@@ -38,7 +38,7 @@ async def connection():
     try:
         yield db
     finally:
-        db.close()
+        await db.close()
         
 # create database tables
 async def create_table():
