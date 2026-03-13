@@ -2,12 +2,12 @@ services:
   super_app:
     container_name: super_app_container
     build:
-      context: ../..
-      dockerfile: app/deploy/Dockerfile
+      context: .
+      dockerfile: backend/Dockerfile
     ports:
       - "5544:8000"
     volumes:
-      - ../..:/app
+      - ./:/app
 
   db:
     image: postgres:latest
@@ -15,7 +15,7 @@ services:
     ports:
       - "5438:5432"
     env_file:
-      - ../../.env
+      - ./.env
     restart: always
     volumes:
       - pg_data:/var/lib/postgresql/data

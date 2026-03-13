@@ -4,13 +4,15 @@
 
 We download apps for our needs but why we download different app for different needs. I decided fix this problem.
 
-![Project Structure Image](./App/assets/super_structure.png)
+![Project Structure Image](./backend/src/assets/super_structure.png)
 
-## Project Structure
+## Project Structure 
 
 ```text
 SUPERAPP
 |-- App
+|   |-- assets
+|       |-- super_structure.png
 |   |-- deploy
 |       |-- docker-compose.yml
 |       |-- Dockerfile
