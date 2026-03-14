@@ -10,15 +10,30 @@ We download apps for our needs but why we download different app for different n
 
 ```text
 SUPERAPP
-|-- App
-|   |-- assets
-|       |-- super_structure.png
-|   |-- deploy
-|       |-- docker-compose.yml
-|       |-- Dockerfile
-|   |-- main.py
+|-- backend
+|   |-- src
+|       |-- assets
+|           |-- super_structure.png
+|       |-- config
+|       |-- core
+|           |-- database.py
+|       |-- models
+|           |-- user.py
+|       |-- routers
+|           |-- v1
+|               |-- auth.py
+|           |-- api_v1.py
+|       |-- schemas
+|           |-- auth.py
+|       |-- services
+|           |-- auth.py
+|       |-- main.py
+|   |-- Dockerfile
+|   |-- requirements.txt
 |-- .env
+|-- .env.example
 |-- .gitignore
+|-- docker-compose.yml
 |-- README.md
 ```
 
@@ -40,18 +55,16 @@ git clone <repo>
 
 cd <repo>
 
-docker compose -f App/deploy/docker-compose.yml up --build -d
-
-cd App/deploy
+docker compose up --build -d
 
 docker compose up
 ```
 
 #### Get's to App
 
-> Open the localhost at 5544 port.
+> Open the localhost at 5544 port and goes to the Swagger UI.
 >
-> Click to [localhost](http://localhost:5544/)
+> Click to [localhost](http://localhost:5544/docs)
 
 ---
 
