@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, status, Request
+from fastapi import FastAPI, HTTPException, status, Depends
 from contextlib import asynccontextmanager
 from typing import AsyncIterable
 
@@ -25,8 +25,6 @@ app = FastAPI(
     lifespan=lifespan
 )
 
-app.include_router(Router_v1)
-
 # Creates App Healthy API
 @app.get("/", tags=['Healthy'])
 async def healthy_check():
@@ -42,3 +40,6 @@ async def healthy_check():
         }
     except:
         HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="App isn't healthy!")
+        
+# Add a routers
+app.include_router(Router_v1)
