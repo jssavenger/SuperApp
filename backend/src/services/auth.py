@@ -23,12 +23,12 @@ async def control_user(data, db) -> Optional[ReturnSchema]:
     result= await db.execute(stmt) # this is return object
     # check data or none
     result= result.scalar_one_or_none()
-    logger.info(f"Result: {result}")
+    logger.info(f"Database result came.")
     
     if not result:
         response.status= False
         return response
     
-    logger.info(f"Result: {result.username}")
+    logger.info(f"Database result isn't None.")
     response.data= result.username
     return response
