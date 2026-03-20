@@ -4,9 +4,9 @@
 
 We download apps for our needs but why we download different app for different needs. I decided fix this problem.
 
-![Project Structure Image](./backend/src/assets/super_structure.png)
+![Project Frontend](./frontend/src/assets/superappmainpage.png)
 
-## Project Structure 
+## Project Structure
 
 ```text
 SUPERAPP
@@ -42,8 +42,8 @@ SUPERAPP
 - Docker & Docker Compose
 - PostgreSQL
 
-| **Backend** | **Frontend** |
-| ------- | -------- |
+| **Backend**      | **Frontend** |
+| ---------------- | ------------ |
 | Python (FastAPI) | React (Vite) |
 
 ### Deployment
@@ -52,7 +52,9 @@ SUPERAPP
 
 > Create .env file and write your database information.
 
-#### Setup
+### Setup
+
+Backend
 
 ```bash
 git clone <repo>
@@ -64,11 +66,22 @@ docker compose up --build -d
 docker compose up
 ```
 
+Frontend
+
+```bash
+cd frontend
+npm run dev
+```
+
 #### Get's to App
 
 > Open the localhost at 5544 port and goes to the Swagger UI.
 >
 > Click to [localhost](http://localhost:5544/docs)
+
+> Open the localhost at 5173 port and goes to the main page.
+>
+> Click to [localhost](http://localhost:5173/)
 
 ---
 
