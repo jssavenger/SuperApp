@@ -42,6 +42,10 @@ SUPERAPP
 - Docker & Docker Compose
 - PostgreSQL
 
+| **Backend** | **Frontend** |
+| ------- | -------- |
+| Python (FastAPI) | React (Vite) |
+
 ### Deployment
 
 #### Database Information
