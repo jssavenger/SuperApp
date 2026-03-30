@@ -10,24 +10,19 @@ from backend.src.services.logger_service import logger
 from backend.src.core.database import connection
 
 # auth schema
-from backend.src.schemas.auth import UserAuth
+from backend.src.schemas.auth import UserAuth, UserRegister
 
 # return schema
 from backend.src.schemas.return_schema import ReturnSchema, TokenSchema
 
 # service layer
 from backend.src.services.auth import control_user
+from backend.src.services.auth import user_register_service
 
 # oauth token
 from backend.src.core.security import oauth2_scheme
 
 router=APIRouter(tags=['Auth'])
-
-@router.get("/users/me")
-async def read_users_me(
-    token: str = Depends(oauth2_scheme) ,
-):
-    return True
 
 @router.post("/login")
 async def user_login(
@@ -58,3 +53,19 @@ async def user_login(
     )
     
     return response
+
+@router.post("/register")
+async def user_register(
+    data: UserRegister,
+    db: AsyncSession = Depends(connection)):
+    """Registers a new users
+            Args:
+                data (UserAuth): Pydantic Schema
+    """
+    logger.info(f"user_register API called.")
+    
+    response = ReturnSchema()
+    
+    r = await user_register_service(data, db)
+    
+    return r
