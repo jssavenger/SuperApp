@@ -14,7 +14,7 @@ export default function MainPageComponent() {
       {showLogin && (
         <div className="flex w-full h-screen absolute z-50 items-center justify-center bg-gray-800/80">
           {/* Login Card Panel */}
-          <div className="relative flex flex-col h-[40%] w-1/2 p-2 bg-white rounded-xl">
+          <div className="relative flex flex-col sm:h-[60%] md:h-[65%] lg:h-[55%] w-1/2 p-2 bg-white rounded-xl">
             <h1 className="text-black text-4xl font-bold text-center">Login</h1>
             <button
               onClick={LoginButton}
@@ -65,7 +65,7 @@ export default function MainPageComponent() {
         </div>
       </div>
       {/* Main */}
-      <main className="flex w-full mt-10 justify-center">
+      <main className="flex w-full mt-15 justify-center">
         {/* Features Place */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 bg-white rounded-xl">
           {/* Chat Place */}
