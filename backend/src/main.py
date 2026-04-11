@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException, status, Depends
 from contextlib import asynccontextmanager
 from typing import AsyncIterable
+from fastapi.middleware.cors import CORSMiddleware
 
 # Routers
 from backend.src.routers.api_v1 import router as Router_v1
@@ -23,6 +24,14 @@ app = FastAPI(
     description="We download apps for our needs but why we download different app for different needs. I decided fix this problem.",
     version="0.01",
     lifespan=lifespan
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # Creates App Healthy API

@@ -2,12 +2,14 @@ from fastapi import APIRouter, HTTPException, status
 
 # Version 1 routers
 from backend.src.routers.v1.auth import router as UserLoginRouter
-
+from backend.src.routers.v1.user import router as UserProcessRouter
 router = APIRouter(
-    prefix="/api/v1"
+    prefix="/api/v1",
+    tags=["Version 0.1"]
 )
 
 router.include_router(UserLoginRouter)
+router.include_router(UserProcessRouter)
 
 # Creates App Version 1 Healtyh API
 @router.get("/", tags=['Healthy'])

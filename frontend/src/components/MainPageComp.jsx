@@ -1,12 +1,25 @@
 import { useState } from "react";
+import { useEffect } from "react";
 import hero from "../assets/react.svg";
+
+// login api
+import { login_service } from "../services/login";
 
 export default function MainPageComponent() {
   const [showLogin, setShowLogin] = useState(false);
+  const [username, setUsername] = useState(null)
+  const [password, setPassword] = useState(null)
+
   function LoginButton() {
     console.log("Login button clicked.");
     setShowLogin(!showLogin);
   }
+  const handleClick = async () =>{
+    console.log("Send button clicked. ", username, password)
+    const response = await login_service(username, password)
+    console.log("Response: ", response)
+  }
+
   return (
     // Main Div
     <div className="h-screen w-full bg-zinc-950">
@@ -24,19 +37,20 @@ export default function MainPageComponent() {
             </button>
             <h2 className="text-center text-lg mt-5 font-semibold">Username</h2>
             <input
+              onChange={e => setUsername(e.target.value)}
               id="user-username"
               type="text"
               className="mx-auto border border-gray-300 shadow-sm rounded-md w-1/2 p-1 outline-none"
             />
             <h2 className="text-center text-lg mt-5 font-semibold">Password</h2>
-
             <input
+            onChange={e => setPassword(e.target.value)}
               id="user-password"
               type="password"
               className="mx-auto border border-gray-300 shadow-sm rounded-md w-1/2 p-1 outline-none"
             />
 
-            <button className="p-2 mt-3 mx-auto w-1/3 bg-sky-500 rounded-2xl shadow-2xl hover:bg-sky-400 transition-transform cursor-pointer hover:scale-110">
+            <button onClick={handleClick} className="p-2 mt-3 mx-auto w-1/3 bg-sky-500 rounded-2xl shadow-2xl hover:bg-sky-400 transition-transform cursor-pointer hover:scale-110">
               <span className="text-white font-semibold">Send</span>
             </button>
           </div>
