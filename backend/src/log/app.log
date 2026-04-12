@@ -266,3 +266,200 @@
 2026-04-11 13:09:12 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
 2026-04-11 13:09:12 - backend.src.services.logger_service - INFO - Database result is successfull.
 2026-04-11 13:09:12 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:00:22 - backend.src.services.logger_service - INFO - test info
+2026-04-12 10:00:22 - backend.src.services.logger_service - DEBUG - test debug
+2026-04-12 10:00:22 - backend.src.services.logger_service - ERROR - test error
+2026-04-12 10:01:31 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:01:31 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:01:31 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:01:31 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:01:31 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:38:27 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:38:27 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:38:28 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:38:28 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:38:28 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:40:55 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:40:55 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:40:55 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:40:55 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:40:55 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:41:46 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:41:46 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:41:46 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:41:46 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:41:46 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:42:43 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:42:43 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:42:44 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:42:44 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:42:44 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:43:12 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:43:12 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:43:12 - backend.src.services.logger_service - WARNING - User password isn't true: 'eminocak11'
+2026-04-12 10:43:27 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:43:27 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:43:27 - backend.src.services.logger_service - WARNING - User password isn't true: 'eminocak11'
+2026-04-12 10:43:38 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:43:38 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:43:38 - backend.src.services.logger_service - WARNING - User not found: 'w'
+2026-04-12 10:43:52 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:43:52 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:43:53 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:43:53 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:43:53 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:48:15 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:48:15 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:48:15 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:48:15 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:48:15 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:52:18 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:52:18 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:52:19 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:52:19 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:52:19 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:54:27 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:54:27 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:54:27 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:54:27 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:54:27 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:54:55 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:54:55 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:54:55 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:54:55 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:54:55 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:58:02 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:58:02 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:58:02 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:58:02 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:58:02 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:58:25 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:58:25 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:58:25 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:58:25 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:58:25 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:58:49 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:58:49 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:58:49 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:58:49 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:58:49 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 10:59:26 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 10:59:26 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 10:59:27 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 10:59:27 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 10:59:27 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:00:25 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:00:25 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:00:25 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:00:25 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:00:25 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:05:10 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:05:10 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:05:10 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:05:10 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:05:10 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:05:21 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:05:21 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:05:21 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:05:21 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:05:21 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:05:58 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:05:58 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:05:59 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:05:59 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:05:59 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:06:10 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:06:10 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:06:10 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:06:10 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:06:10 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:12:32 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:12:32 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:12:32 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:12:32 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:12:32 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:13:22 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:13:22 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:13:22 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:13:22 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:13:22 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:14:26 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:14:26 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:14:26 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:14:26 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:14:26 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:14:35 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:14:35 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:14:35 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:14:35 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:14:35 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:26:37 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:26:37 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:26:37 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:26:37 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:26:37 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:27:01 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:27:01 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:27:01 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:27:01 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:27:01 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:27:19 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:27:19 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:27:19 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:27:19 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:27:19 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:27:58 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:27:58 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:27:58 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:27:58 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:27:58 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:31:42 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:31:42 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:31:42 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:31:42 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:31:42 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:33:46 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:33:46 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:33:46 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:33:46 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:33:46 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:34:45 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:34:45 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:34:45 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:34:45 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:34:45 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:35:09 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:35:09 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:35:10 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:35:10 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:35:10 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:46:29 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:46:29 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:46:30 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:46:30 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:46:30 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:49:16 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:49:16 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:49:16 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:49:16 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:49:16 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 11:58:29 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 11:58:29 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 11:58:29 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 11:58:29 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 11:58:29 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 12:12:16 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 12:12:16 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 12:12:16 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 12:12:16 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 12:12:16 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 12:38:58 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 12:38:58 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 12:38:58 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 12:38:58 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 12:38:58 - backend.src.services.logger_service - INFO - control_user status is true.
+2026-04-12 12:49:42 - backend.src.services.logger_service - INFO - /login API called.
+2026-04-12 12:49:42 - backend.src.services.logger_service - INFO - control_user calling...
+2026-04-12 12:49:42 - backend.src.services.logger_service - INFO - Created token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNDUxYzdmNzQtNDFiMi00M2IzLTk0MjItNGViMTVkNWViYzk0IiwiZXhwaXJlcyI6IjEifQ.pN_jOfMIZQ6jfHS_DYfrxuiMkKZR6J8ZbgPjpSq3vHY
+2026-04-12 12:49:42 - backend.src.services.logger_service - INFO - Database result is successfull.
+2026-04-12 12:49:42 - backend.src.services.logger_service - INFO - control_user status is true.
