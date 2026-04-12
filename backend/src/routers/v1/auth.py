@@ -47,11 +47,8 @@ async def user_login(
     
     
     logger.info(f"control_user status is true.")
-    response= TokenSchema(
-        access_token="123",
-        token_type="Bearer"
-    )
-    
+    response.data = result.data
+
     return response
 
 @router.post("/register")

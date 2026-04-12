@@ -1,5 +1,10 @@
 from pydantic import BaseModel, Field
 
+# bearer
+class Token(BaseModel):
+    access_token: str
+    token_type: str
+
 class UserAuth(BaseModel):
     username: str = Field(..., min_length=10, max_length=30, description="User username.")
     password: str = Field(..., min_length=15, max_length=30, description="User password.")
